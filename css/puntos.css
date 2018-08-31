@@ -1,0 +1,12 @@
+div{
+	height: 120px;
+	width: 120px;
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 20px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #3DFF21;
+	border: 5px dotted#3020FF;
+}
